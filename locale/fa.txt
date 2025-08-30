@@ -25,6 +25,15 @@ audiores_C506BBA5_EA71_9A63_41CD_BC2575F28D17.mp3Url = media/audio_D385F908_EA72
 panorama_E09D87B3_E5B1_3DBA_41EC_08E7B1E6DAC0.subtitle = موقعیت
 
 ### Title
+album_F7EA2371_FB7B_CA3D_41EE_8F91E129AFA6_1.label = IMG_20250606_150830_979
+album_F7EA2371_FB7B_CA3D_41EE_8F91E129AFA6.label = Photo Album ۲۰۲۵۰۸۲۳_۱۴۱۱۲۵
+album_F7EA2371_FB7B_CA3D_41EE_8F91E129AFA6_2.label = SAVE_۲۰۲۵۰۸۲۹_۱۱۴۷۵۳
+album_F7EA2371_FB7B_CA3D_41EE_8F91E129AFA6_3.label = SAVE_۲۰۲۵۰۸۲۹_۱۴۴۲۱۲
+album_F7EA2371_FB7B_CA3D_41EE_8F91E129AFA6_4.label = SAVE_۲۰۲۵۰۸۲۹_۱۴۴۲۱۹
+album_F7EA2371_FB7B_CA3D_41EE_8F91E129AFA6_5.label = SAVE_۲۰۲۵۰۸۲۹_۱۴۴۲۳۹
+album_F7EA2371_FB7B_CA3D_41EE_8F91E129AFA6_6.label = SAVE_۲۰۲۵۰۸۲۹_۱۴۴۲۴۶
+album_F7EA2371_FB7B_CA3D_41EE_8F91E129AFA6_7.label = SAVE_۲۰۲۵۰۸۲۹_۱۴۴۳۰۰
+album_F7EA2371_FB7B_CA3D_41EE_8F91E129AFA6_8.label = SAVE_۲۰۲۵۰۸۲۹_۱۴۴۳۱۷
 panorama_E09D87B3_E5B1_3DBA_41EC_08E7B1E6DAC0.label = آشپزخانه
 panorama_E09DB12B_E5B1_52AA_4167_CFA474F6C7C8.label = امکانات بهداشتی
 panorama_E732FD8A_E9FB_D461_41CB_3A485FC14C68.label = ایوان
@@ -48,6 +57,7 @@ panorama_E0A120F2_E591_73BA_41EA_4B74BE6BCE1F.label = ورودی اقامتگا�
 panorama_E09FB9D0_E5B1_55F6_41E7_AEF042184EFA.label = محوطه کباب پز
 panorama_E0A003B5_E58F_35BE_41D4_8AF60796875B.label = اتاق سنتی گلین
 panorama_E09FDF70_E5B0_CEB6_41E2_71944B4497A0.label = اتاق سنتی گلین
+album_F7EA2371_FB7B_CA3D_41EE_8F91E129AFA6_0.label = ۲۰۲۵۰۸۲۳_۱۴۱۱۲۵
 
 ## Skin
 
